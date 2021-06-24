@@ -1,0 +1,6 @@
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\obj\Debug\Series.csprojResolveAssemblyReference.cache
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\bin\Debug\Series.exe.config
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\bin\Debug\Series.exe
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\bin\Debug\Series.pdb
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\obj\Debug\Series.exe
+C:\Users\gdeba\OneDrive\Documents\DIO\DIO\GFT START .NET\C#\Series\Series\obj\Debug\Series.pdb
