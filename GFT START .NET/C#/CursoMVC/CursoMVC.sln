@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoMVC", "CursoMVC\CursoMVC.csproj", "{12CA64D9-F4CB-4389-83BC-19DF8662B832}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoAPI", "CursoAPI\CursoAPI.csproj", "{593F46B1-D6F6-476A-8424-1EA13D2433F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CursoTeste", "CursoTeste\CursoTeste.csproj", "{9311F957-017B-4D7F-BE96-73DCBDA74E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12CA64D9-F4CB-4389-83BC-19DF8662B832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CA64D9-F4CB-4389-83BC-19DF8662B832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CA64D9-F4CB-4389-83BC-19DF8662B832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CA64D9-F4CB-4389-83BC-19DF8662B832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593F46B1-D6F6-476A-8424-1EA13D2433F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593F46B1-D6F6-476A-8424-1EA13D2433F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593F46B1-D6F6-476A-8424-1EA13D2433F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593F46B1-D6F6-476A-8424-1EA13D2433F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9311F957-017B-4D7F-BE96-73DCBDA74E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9311F957-017B-4D7F-BE96-73DCBDA74E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9311F957-017B-4D7F-BE96-73DCBDA74E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9311F957-017B-4D7F-BE96-73DCBDA74E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2F47C00-2CFB-476D-A893-0FC8B00D088C}
+	EndGlobalSection
+EndGlobal

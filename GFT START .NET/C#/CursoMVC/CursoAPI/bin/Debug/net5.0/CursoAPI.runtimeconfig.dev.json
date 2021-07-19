@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gdeba\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gdeba\\.nuget\\packages"
+    ]
+  }
+}
